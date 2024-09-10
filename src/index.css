@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Montserrat:ital,wght@0,500;1,500&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.hero-gradient {
+  background-image: linear-gradient(270deg, var(--e-global-color-astglobalcolor5) 63.5%, #F6F6F6 10%);
+}
+
+/* Global Styles */
+body {
+  overflow-x: hidden;
+  font-family: "Ubuntu", sans-serif;
+  line-height: 1.6;
+  color: #333; /* You can adjust the color as needed */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 600;
+  color: #1a1a1a; /* You can adjust the color as needed */
+}
+
+p, span, a, li {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  color: #555; /* Softer text color for readability */
+}
+
+/* Additional Styles for H1 */
+h1 {
+  font-size: 2.5rem; /* Adjust the size as needed */
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.75rem;
+}

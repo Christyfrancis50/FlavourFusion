@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "Pasta Carbonara",
+    "image": "https://images.pexels.com/photos/691114/pexels-photo-691114.jpeg",
+    "description": "Classic pasta dish made with tomato sauce, garlic, onions, and mozzarella.",
+    "ingredients": ["Pasta", "Tomato sauce", "Garlic", "Onions", "Mozzarella"],
+    "prepTime": 15,
+    "cookTime": 30
+  },
+  {
+    "id": "2",
+    "name": "Spaghetti Aglio e Olio",
+    "image": "https://images.pexels.com/photos/691114/pexels-photo-691114.jpeg",
+    "description": "Simple and easy pasta dish made with spaghetti, garlic, and olive oil.",
+    "ingredients": ["Spaghetti", "Garlic", "Olive oil"],
+    "prepTime": 10,
+    "cookTime": 20
+  },
+  {
+    "id": "3",
+    "name": "Lasagna alla Carbonara",
+    "image": "https://images.pexels.com/photos/691114/pexels-photo-691114.jpeg",
+    "description": "Authentic Italian pasta dish made with tomato sauce, garlic, and mozzarella.",
+    "ingredients": ["Pasta", "Tomato sauce", "Garlic", "Mozzarella", "Cheese"],
+    "prepTime": 20,
+    "cookTime": 45
+  },
+  {
+    "id": "4",
+    "name": "Risotto allo Sapori",
+    "image": "https://images.pexels.com/photos/691114/pexels-photo-691114.jpeg",
+    "description": "Homemade Italian risotto made with tomatoes, basil, and garlic.",
+    "ingredients": ["Risotto", "Tomatoes", "Basil", "Garlic"],
+    "prepTime": 10,
+    "cookTime": 20
+  },
+  {
+    "id": "5",
+    "name": "Tiramisu",
+    "image": "https://images.pexels.com/photos/691114/pexels-photo-691114.jpeg",
+    "description": "Italian dessert made with cream cheese, mascarpone, and coffee.",
+    "ingredients": ["Cream cheese", "Mascarpone", "Coffee"],
+    "prepTime": 5,
+    "cookTime": 10
+  }
+]
