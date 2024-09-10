@@ -20,7 +20,7 @@ export const Navbar = () => {
       <div className="flex-shrink-0">
         <Link to="/">
           <img
-            className="w-[12vw] min-w-[100px]"
+            className="w-[36vw] md:w-[14vw]"
             src={Logo}
             alt="CookingApp Logo"
           />
